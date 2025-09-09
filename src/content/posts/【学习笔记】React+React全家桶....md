@@ -1,14 +1,9 @@
 ---
-created: '2025-08-22'
-modified: '2025-08-22'
-tags:
-- React
-- JavaScript
-- 知识管理
-- 待整理
-- 笔记管理
-- Obsidian
-- 前端框架
+title: react 学习笔记
+published: 2022-07-01
+tags: [React, JavaScript, 知识管理, 待整理, 笔记管理, Obsidian, 前端框架]
+category: 学习笔记
+draft: true
 ---
 【学习笔记】React+React全家桶学习笔记
 ========================
